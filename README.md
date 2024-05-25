@@ -1,5 +1,5 @@
 # MazeRivalry
-
+A 2-player, maze runner game built using java with graphics
 # Steps to run project :
 
 1. clone git repository in IntelliJ
